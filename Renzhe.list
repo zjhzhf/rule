@@ -2,12 +2,12 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,renzhe
 # 域名匹配
-  - DOMAIN,renzhe.cloud
-  - DOMAIN,renzhecloud.com
-  - DOMAIN,knowledgebase.renzhecloud.link
-  - DOMAIN,status.renzhecloud.link
-  - DOMAIN,renzhesubconverter.com
-  - DOMAIN,share.renzhe.cloud
-  - DOMAIN,merchant.renzhe.cloud
-  - DOMAIN,emby.renzhe.work
-  - DOMAIN,p.theatre.renzhe.cloud
+DOMAIN,renzhe.cloud
+DOMAIN,renzhecloud.com
+DOMAIN,knowledgebase.renzhecloud.link
+DOMAIN,status.renzhecloud.link
+DOMAIN,renzhesubconverter.com
+DOMAIN,share.renzhe.cloud
+DOMAIN,merchant.renzhe.cloud
+DOMAIN,emby.renzhe.work
+DOMAIN,p.theatre.renzhe.cloud
