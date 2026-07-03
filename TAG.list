@@ -1,6 +1,7 @@
 # 内容：影视刮削
 # 影视&AV刮削（‘日本节点’和‘影视刮削’分组均为负载均衡，‘影视刮削不包含日本节点’）
 
+- DOMAIN,eb.zzm.li
 - DOMAIN-KEYWORD,javbus
 - DOMAIN-SUFFIX,jdbstatic.com
 - DOMAIN-SUFFIX,airav.io
