@@ -3,10 +3,7 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,xiaoya.pro
-DOMAIN-SUFFIX,medi4.org
 DOMAIN-SUFFIX,qzz.io
-DOMAIN-SUFFIX,covh.eu.org
-DOMAIN-SUFFIX,emby.edu.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
